@@ -1,2 +1,1 @@
-su betty
-#!/bin/bash
+chmod +x 0-iam_betty
