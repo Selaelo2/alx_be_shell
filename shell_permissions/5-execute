@@ -1,2 +1,4 @@
-#!/bin/bash\
-nchmod u+x hello\nls -l hello
+#!/bin/bash
+chmod u+x hello
+
+
